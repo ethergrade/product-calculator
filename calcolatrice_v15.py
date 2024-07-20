@@ -139,7 +139,7 @@ def exit_program():
 
 # Configura la finestra principale
 root = tk.Tk()
-root.title("Calcolo Costo, Margine, Prezzo e Markup")
+root.title("Product Management - Service Price Calculator")
 
 # Funzione per creare campo input con bottone di cancellazione interno
 def create_input_with_clear_button(label_text, row):
